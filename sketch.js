@@ -18,7 +18,7 @@ function draw(){
     
     
 }
-function flower(x,y){ 
+function flower(x,y){  
      //stem
     fill(25,150,50);
     rect(x-5,y,10,100);
